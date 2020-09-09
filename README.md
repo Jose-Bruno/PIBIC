@@ -1,1 +1,1 @@
-#PIBIC Ciclo 2020-2021
+Repositório Destinado à Publicação de Materiais e Atividades do Projeto intitulado  "Avaliação de Redes Veiculares modeladas como redes temporais utilizando Teoria da Informação"  Pertencente ao Programa Institucional de Bolsas de Iniciação Científica - PIBIC Ciclo 2020-2021.
